@@ -29,6 +29,6 @@ class Test1{
         else{
             System.out.println("invlaid operator");
         }
-        
+        myScanner.close();
     }
 }
